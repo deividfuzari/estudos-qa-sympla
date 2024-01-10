@@ -160,6 +160,32 @@ como garantir a cobertura desse teste com as tecnicas?
 -dicas e boas praticas, comece do inicio, registre os cenarios dos testes identificados, possibilite a reutilizar desses teste em 
 outra demanda ou trabalho.
 -analise o seu contexto e aplique desde já.
+------------------------------------------------
+tecnicas de testes
+-açoes com procedimento para chegar a um determinado resultado com foco na qualidade do software. Apoia testers e desenvolvedores
+para construir melhores testes.
+-ferramentas de testes
+são aplicacoes que ajudam a suportar as tecnicas, agiliza o processo de teste.TODA FERRAMENTA TEM QUE ESTAR LINCADA A SUA TECNICA.
+
+tecnica Pairwise 
+teste de combinação dupla, é um dos criterios de teste baseado na especificacao, sendo que para cada PAR de parametros de entrada
+um sistema, e que cada combinacao de valores validos destes dois parametros, seha coberto ao menos por um caso de teste.
+-a ideia nao é testar TODAS as combinacoes possiveis, para TODOS os valores de TODAS variaveis.
+-Mas sim testar PARES DE VARIAVEIS, reduzindo significativamente a quantidade de cenarios de testes a serem elaborados.
+
+tecnica de teste Ishikawa
+-tambem chamado de diagrama de causa e efeito.
+-é muito utilizado em Brainstorms
+-Representa a relação entre o "efeito" e todos as possiveis "causas" que podem estar contribuindo para este efeito
+-por causa do seu formato tambem é conhecido como Espinha de PEIXE.
+-visualizacao fica mais facil, o cenario nao tem muito escrito e é mais dinamico com diagramas.
+
+Mindmap
+testing agil usa bastante mindmap, quando voce planeja tem um plano e faz o mindmap e nisso cria a automação de testes.
+voce ganha tempo planejando antes, de como fazer o teste.
+
+ferramenta xmnind ferramenta paga 
+e a Mind meister  
 
  
 
