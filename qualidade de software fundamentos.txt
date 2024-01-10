@@ -1,0 +1,182 @@
+qualidade de software-> adjetivo ou bom ou ruim, tentar trazer qualidade melhor
+caracteristicas -> funcionalidade, usabilidade, performance, segurança.
+teste de sfotware-> existem tecnicas em cada caracteristicas citadas
+
+----------------------------------
+CARACTERISTICAS DE QUALIDADE
+
+o que significa um software de alta qualidade?
+a ídeia é intender avaliar isso, em quais aspectos voce deve focar.
+RESPONDENDO um software que atende se nao todas, as principais expectativas de seu usuario,
+considerando tambem aspectos implicitos que, se nao atendidos, comprometem a qualidade do produto.
+
+como avaliar a qualidade de um softare?
+empirica -> com suas experiencias de uso, voce se coloca no lugar de um usuario.
+sistematica-> estruturada, prevista, a melhor maneira de avaliar o software.
+
+caracterisricas de qualidade de software (ISO 25010)
+funcionalidade -> unica funcional as outras 7 sao não funcional
+corretude:se ele atende as funcionalidades fitures, se realmente esta entregando o que foi planejado
+integridade: se ele esta funcinando por inteiro, de forma concisa sem interrupcoes.
+
+performance-> eficiencia de desempenho
+comportamento em relacao ao tempo: coloca o softaware em execucao em uma determinada funcionalidade dele, e
+olhar o desempenho no tempo planejado e nao a funcionalidade que foi o primeiro caso, mas o tempo em si.
+utilizacao de recurso: monitorando memoria, cpu, 
+capacidade: consumo a capacidade em disco, prever quantos usuarios podem acessar o produto.
+
+compatibilidade->
+coexistencia e interoperabilidade: o software está se integrando muito bem, tanto entre os componentes ou 
+diferentes plataformas.
+
+usabilidade->conjunto maior de sub caracteristicas
+apreensibilidade: avaliar o quanto um software tem a interface e o usuario percorre o fluxo, ou acao que
+o usuario toma sera cronometrado, resumindo se a interface fica de facil acesso ao usuario sem duvidas do 
+que ser feito.
+acessibilidade:promover o acesso ou experiencia igual para todas as pessoas, independente de possiveis 
+deficiencias. deixar o mais simples e facil possivel para o usuario.
+
+confiabilidade-> teste direcionado a comunicacao de falhas.
+recuperabilidade:quanto tempo o produto leva para se restabelecer de uma falha, ou se comunicar uma falha.
+
+seguranca->
+rastreabilidade de uso:a forma que software é avaliado de todas as acoes que o usuario podem tomar no software
+sobre o aspecto de segurança, dados sensiveis, ou informacoes importantes.
+
+manutenibilidade->atrelados e intuito da aplicacao ser bem montado e desenvolvido
+testabilidade:para criar teste em cima do software ele seja bem desenvolvido, grau dessas caracteristicas, dos
+aspectos, a forma que ela é construida existem boas praticas, e sejam bem estabelecidas.
+ser conciso ser organizado.
+portabilidade-> tudo que termina em dade ou ity em ingles sao testes nao funcionais
+adaptabilidade:quando avaliada entendemos o grau em que a aplicacao se adapta em diferentes contextos ou plataforma
+ela tem um codigo, backend que o front se adapta, tenha responsividade, que ela funcione em alguns outros lugares.
+---------------------------------------------
+TESTE DE QUALIDADE DE SOFTWARE.
+
+qualidade de software-> é um conjunto de caracteristicas que esta sendo produzido, e que SATISFAZEM AOS REQUISITOS
+DE UM SOLICITANTE.
+testar-> é um conjunto de acoes como revisar, investigar, prevenir defeitos, discutire sugerir melhorias, com o
+objetivo de averiguar a aderencia das caracteristicas e REQUISITOS de um produto.
+Software de qualidade-> é um software que funciona corretamente conforme os REQUISITOS. É AQUELE SOFTWARE, SERVIÇO
+OU SOLUÇÃO QUE ATENDE A EXPECTATIVA DO USUARIO.
+**foco sempre no requisito, pois é onde o usuario esta querendo do produto.
+**saber reportar um erro e escrever com muita atencao, e saber o que a empresa faz para saber o que testar.
+**saber ouvir e saber comunicar depois, é importantissimo, se posicionar, dar uma idéia.
+
+Contribuicao dos testes na qualidade o Software
+-um software bem testado, é a maior qualidade  dos produtos, serviços e soluções.
+-metricas e indicadores de testes - medir a Qualidade, atraves dos teste mede a qualidade do produto final.
+-menor custo, entra mais eficientes. quanto custa um erro, quanto mais teste tem e menor custo, entra eficiente.
+-melhor experiencia do Cliente, com isso tudo o cliente volta, solicitar mais demandas, pois os requisitos foram entregue.
+----------------------------------------------
+Entendendo o papel do QA no time.
+**se nao tiver um procedimento de teste agil, vai tendo varios bug e voce vai ter uma bola de neve.
+hoje em dia o QA alem do papel de teste é bem maior, dentro da metodologia agil, ele aparece no refinamento, desde o
+inicio do processo, para saber como será feito tudo e melhorar a qualidade do software, pois sabe ja o que pode ser
+testado.
+
+fundamentos do QA, quando temos um fundamento de teste
+1-estude
+2-soft skill= voce vai estar em um time mas vai trabalhar em algo que o time nao vai estar fazendo, ter intimidade
+com os dev, e tudo mais, pra quando for cobrar algo voce ter amizade.
+3-desenvolvimento=java ou JS, saber a linguagem que o time trabalha
+4-ferramenta de teste de interface, selenium.
+
+Tenho que testar tudo?
+se testar tudo nada vai subir, pergunta pro dev qual o risco, ou pio o impacto e coloca margem de teste.
+caminho feliz é é suficiente? e Tipos de teste: qual a proporção de teste?
+ter o filling de nao travar, ou perder o timing, e ter cuidado de testar as coisas que mais podem afetar o cliente.
+foca nos requisitos do cliente.
+**manter sempre estudando pois a cada 2 anos a tecnologia vai evoluindo.
+
+teste exploratorios-> subestimado focam no automatizado, mas o exploratorios trazem mais bug
+montagem de scripts -> manutencao de scripts proprio qa que faz
+triagem das quebras-> qa que fala se vale a pena ou nao os testes.
+
+conclusão
+não somo mais criticos, isso vai ou nao vai, e sim co-responsaveis, o qa trabalha proximo da equipe de desenvolvimento.
+tecnologicos, aprender ferramentas automatizadas ou nao, tecnicas, vamos ser preventivos.
+----------------------------------------------
+artefatos 
+
+Analisar informação, ser mais critico ou questionador daquilo que ele tem na mão, para buscar qualidade.
+-cada projeto ou produto, possui informaçao do produto.
+-cada informacao é uma bussula, para qualidade.
+
+tipos de artefatos
+plano de projeto- escopo(saber o que validar) e buscar quais caracteristicas se encaixa nesse escopo
+visão- qual o tipo de mercado eu quero buscar,"depende do cliente", saber a linha de chegada o tem q fazer
+objetivos- será que está funcionando normalmente, se esta realmente automatizada, está cumprindo o requisitos do projeto.
+escopo negativo- será que estou investindo tempo de teste, estrategia que o projeto não vai cobrir?
+cronograma- começa com estrategia curto medio ou a longo prazo.
+riscos/ equipes/ infra estrutura-quem voce pode contar, se nao tem acesso ao começo do projeto, nao tem o planejamento todo.
+arquitetura macro- saber qual plataforma usar, quantos front quantos back.
+tecnologias- me preparar para tomar as decisoes corretas e usar as tecnologias corretas para a melhor qualidade.
+
+mapas de processos - quando testar, porque testar?
+design - ux artefato de negocio, ajuda a ter visibilidade de experiencia de usuario.
+ui - não é so porque esta funcionando que está com qualidade, tem que detalhar as minimas coisas, para ser a melhor experiencia.
+buscar experimentos- o que é bom para testar, dicas que sempre acontecem e voce pode solucionar.
+
+artefato de software - plano de projeto, plano de produto, holdmap estrategia de qualidade, documentar projeto.
+qa me preocupar com quem usa, me colocar no lugar do usuario..
+-----------------------------------------------
+tecnicas de testes no dia a dia
+campos de entradas:
+me perguntar sentiu dificuldade em argumentar o porque de estar testando determinadas entradas?
+ja se sentiu perdido diante de tantas possibilidades de casos de testes?
+não sabe como selecionar casos de teste com maior potencial para revelar a presença de falhas?
+nao saber como deterinar que ja testou cenario o suficiente?
+teste exaustivos são impossiveis, nao da para testar TUDO. por isso temos q saber qual teste priorizar.
+
+o que é partição de equivalente?
+-tecinica de testes de caixa-preta em que as entradas são agrupadas em diferentes particoes, de acordo com o comportamento que 
+provocam.
+-entradas que provocam o mesmo comportamento são consideradas como equivalentes e colocadas na mesma categoria.
+- os casos de teste devem ser construidos a partir das particoes criadas. de acordo com as especificacoes, cada representante
+de uma particao deve apresentar um resultado diferente.
+
+o que é analise do valor limite? 2 tecnica
+- é um criterio complementar a particao de equivalencia.
+- consiste em gerar casos de teste focados nos limites(valor minimo e valor maximo) das participacoes
+-casos de teste que exploram condicoes limites tem uma maior probabilidade de encontrar erros.
+
+como aplicar as tecnicas?
+1- identifique as particoes de equivalencia
+2- selecione os valores limites. 
+exemplo : pode 10 pizzas por pedido, então menor que 0 particao será invalido, entre 1 e 10 particao valida, 11 em diante
+particao invalida, e nisso temos 3 particoes, e os valores limites são: 0,1, 2, 9, 10, 11, pois esses numeros são estrategicamente
+melhores para testar pois 0 e 11 são invalidos, 1 e 10 validos e caso no codigo não coloquem maior ou igual <= pode dar errado.
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
