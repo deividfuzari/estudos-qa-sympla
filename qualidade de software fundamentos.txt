@@ -148,7 +148,18 @@ exemplo : pode 10 pizzas por pedido, então menor que 0 particao será invalido,
 particao invalida, e nisso temos 3 particoes, e os valores limites são: 0,1, 2, 9, 10, 11, pois esses numeros são estrategicamente
 melhores para testar pois 0 e 11 são invalidos, 1 e 10 validos e caso no codigo não coloquem maior ou igual <= pode dar errado.
 
+erros comuns ao adotar essas tecnicas.
+-não deve ser possivel que um elemento se enquadre na particao A e hora particao B, resumindo 1 numero em 2 particoes.
+-se uma particao nao possui membros, ela nao existe, nao existe particao vazia.
+-nao deve ser usada paenas para teste manuais.
+-todo time deve utilizar estas tecnicas, nao apenas QAs/Testers.
+-cuidado ao identificar as particoes para nao identificar incorretamente, particoes são divididas por regras de negocios.
 
+como garantir a cobertura desse teste com as tecnicas?
+-metrica para particionamento, resumindo testar todas as particoes que voce fez. o 100%
+-dicas e boas praticas, comece do inicio, registre os cenarios dos testes identificados, possibilite a reutilizar desses teste em 
+outra demanda ou trabalho.
+-analise o seu contexto e aplique desde já.
 
  
 
