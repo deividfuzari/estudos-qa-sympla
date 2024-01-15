@@ -246,7 +246,31 @@ ai vai para o DESENVOLVIMENTO, vai para teste.
 
 smok test: são execucoes de testes das principais funcionalidades do sistema. 
 ***resumindo testa a parte critica do sistema, primeiro antes de tudo a parte essencial do sistema, o principal.
+---------------------------------------------
+3 heuristicas de testes exploratorios
+heuristicas é a forma de pensar e solucionar um problema complexo e torna-lo simples.
 
+heuritica alter face
+principios
+Ativacao, Camadas, Tempo, Principios da Exclusao, Removivel, Flutuante, Alcancavel, Colisão, Expansão.
+ativação- elementos que devem se tornar interativos, visiveis apos o clique, ou desaparecer apos um clique
+flutuante- tem um determinado elemento que precisa flutuar, e quando acontece isso, pode nao ser visivel em algum momento e 
+fica ruim para o usuario.
+**web
+
+heuristicas T-PAIN
+principios
+Rotação, Permissões, Modo aviao, Interrupcoes, Conexoes.
+rotacao- app preserva as informacoes ao rotacionar a tela, se os elementos estao bem distribuidos, e observar o scrollbar.
+interrupção- principais interrupcoes, notificacoes e chamada telefonica, e a aplicacao anterior ser perdida ou nao.
+**mobile android
+
+Heuristicas PAMMDA
+principios
+Parametros do sistemas, API, Manipulação de chats, Mensagens, Desempenho, Automação
+Mensagem- verificar se as mensagens estao trafegadas corretamente, entre cliente e plataforma
+automação- verificar se a funcionalidade de automacao esta funcionando, enviar email, colocar chat na fila, mensagem de oferta.
+**plataforma de atendimento digital, email whatsapp telegram e etc.
 
 
  
