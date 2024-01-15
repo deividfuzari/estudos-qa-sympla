@@ -229,6 +229,23 @@ DE VALOR DO PAGAMENTO, DA 6 TESTES.
 ***tabela muito boa de teste, de valores.
 
 xdecision site onde pode pegar a tabela.
+---------------------------------------------
+prioriazacao de testes
+olhar o que é importante no software
+Os testes REGRESSIVOS: são realizados para garantir que as alterações no software não tenham quebrado funcionalidades existentes, 
+PROGRESSIVOS: são realizados para garantir que as novas funcionalidades funcionem conforme o esperado antes de 
+serem implementadas.
+---------------------------------------------
+smok tests
+por onde comecar o teste? smok test o MAIS IMPORTATE.
+processo de desenvolvimento?
+dono do produto com o cliente, o que voce deseja no sistema, e o dono anota, requisitos e tudo mais
+anota toda o planejamento- chegando na empresa ele passar para as equipes responsaveis, equipe de disgn seprara o serviço
+depois cliente e dono sentam e conversam se quer mudança ou do que o cliente acha do prototipo. depois quando aprova
+ai vai para o DESENVOLVIMENTO, vai para teste.
+
+smok test: são execucoes de testes das principais funcionalidades do sistema. 
+***resumindo testa a parte critica do sistema, primeiro antes de tudo a parte essencial do sistema, o principal.
 
 
 
