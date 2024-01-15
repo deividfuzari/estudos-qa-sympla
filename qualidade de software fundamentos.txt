@@ -210,6 +210,28 @@ via banco de dados.
 -usar ela na automacao de testes, necessario ao fazer testes orientados a dados, onde voce tem ja os dados e fazer os testes nele.
 -pontos negativos, voce precisa ter conhecimento arquitetura do seu banco, voce precisa ter o mapeamento do Banco.
 -os testes ficam mais lentos devido a essa interacao com o banco de dados
+-----------------------------------------------
+tabela de decisao
+divide em 2 grandes grupos 
+TIPO
+entradas- acoes fornecidas por um humano, ou API, entrada para a tabela
+saidas- o que é esperado de acordo com a combinacao de entradas.
+VARIAVEL
+dentro da entradas temos: pagamento a vista - valor do pagamento
+dentro das saidas:  desconto - frete gratis
+PARTICOES
+dentro das entradas pagamento a vista temos 2 particoes: sim ou não, se tera ou nao.
+dentro das entradas valor do pagamento temos 2 particoes: menor ou igual a 99,99, ou 100 a 150 reais, e maior que 150,01.
+dentro das saidas e desconto temos 2 particoes: sim ou nao, se tera desconto ou nao
+dentro das saidas frete gratis temos 3 particoes: sim ou nao, se tera frete gratis ou nao.
+**para saber quantos testes iremos fazer é simples multiplicar as PARTICOES de entrada, NESSE CASO 2 DE PAGAMENTO A VISTA E 3 
+DE VALOR DO PAGAMENTO, DA 6 TESTES.
+***tabela muito boa de teste, de valores.
+
+xdecision site onde pode pegar a tabela.
+
+
+
  
 
 
