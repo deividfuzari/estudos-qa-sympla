@@ -271,6 +271,21 @@ Parametros do sistemas, API, Manipulação de chats, Mensagens, Desempenho, Auto
 Mensagem- verificar se as mensagens estao trafegadas corretamente, entre cliente e plataforma
 automação- verificar se a funcionalidade de automacao esta funcionando, enviar email, colocar chat na fila, mensagem de oferta.
 **plataforma de atendimento digital, email whatsapp telegram e etc.
+----------------------------------------------
+soft skills para testadores
+habilidade comportamental pessoal ou interpessoal. interpessoal como se comportar no meio de todos.
+habilidade pessoal- motivacao, persistencia, detalhista, organizacao, autogerenciado/organizado, resiliencia.
+
+habilidade interpessoal- comunicacao, empatia, pensamento critico, liderança, positivismo, espirito de equipe, criativo
+inteligencia emocional, autogerenciamento.
+
+softskills x hardskills
+REAL SKILLS -habilidades reais e hibridas
+**ter comportamento e ter habilidade/tecnica.
+
+comportamentais reais- determinacao, atitude, contribuicao, escolhas.
+
+
 
 
  
