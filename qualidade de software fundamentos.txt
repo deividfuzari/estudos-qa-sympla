@@ -300,7 +300,27 @@ usar esse documento tanto no inicio quanto no fim do projeto.
 **principal foco, funcionalidade e usabilidade, pois se o software tem q pelo menos estar funcionando o basico para o que pede.
 
 foco automatizar teste para funcionar bem a PORTABILIDADE, em varios lugares plataformas e etc.
+-----------------------------------------------
+para que serve Automação.
+o que é e para que serve automação de testes?
+o que é? a escrita de scripts para executar os testes de sistemas.
+como? 3 partes, CODIGO as acoes, APP aplicacao, no meio dos 2 tem uma ponte, codigo passa na ponte depois chega com forma de ação.
+a ponte pode se chamar DRIVER, recebe o codigo tudo escrito e joga para a APLICAÇÃO. e o codigo pode ser qualquer linguagem.
+a ponte appium, selenium, webdriver i/o - interpreta o codigo e joga para o app.
+codigo, são açoes de clique, texto, marcar na tela do app, rolar a tela. mas tambem alteracoes, endereco, permissoes, config e etc
+quando executo essa automação?
+tecnica 	classificacao
+*funcional	manual
+estrutural	*regressivo  *sao os usados para automacao de testes. verificando se o sistema foi afetado por alguma alteração.
+		requisitos
+qual o beneficio?
+tempo e dinheiro, quanto mais tempo voce demora para executar os testes, menos dinheiro a empresa tem
+quanto mais rapido, economiza tempo e a empresa tem mais dinheiro.
 
+automacao de teste milagrosa? nao obvio que não, é um processo de fluxo de qualidade, ela ajuda.
+para que serve?
+para garantir que tudo que estava funcionando, continue funcionando, depois de adicionar novas features, funcionalidades, ou seja
+prevenir efeitos colatereais em um tempo muito menos e com mais assertividade.
 
 
 
