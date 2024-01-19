@@ -321,6 +321,36 @@ automacao de teste milagrosa? nao obvio que não, é um processo de fluxo de qua
 para que serve?
 para garantir que tudo que estava funcionando, continue funcionando, depois de adicionar novas features, funcionalidades, ou seja
 prevenir efeitos colatereais em um tempo muito menos e com mais assertividade.
+----------------------------------------------------------
+5 conceitos para iniciantes em automacao de testes
+de cada conceito iremos saber do conceito, pratica e impacto
+
+ciclo e vida de desenvolvimento
+tecnicas de testes
+logica de programacao
+arquitetura de software
+autoconhecimento
+
+ciclo de vida de desenvolvimento
+processo de desenvolvimento, é importante para tomadas de decisao, isso vem antes da escolha de ferramenta e antes dos scripts.
+
+tecnicas de testes
+testes exploratorios, teste de acessibilidade, componente, contrato, em jornadas, unitarios, integracao.
+importante conhecer pois no processo de decisao, como iremos fazer e melhorar a automatizacao, saber qual tecnica usar.
+
+logica de programacao
+condicionais, operadores, variaveis, funcoes, sintaxe, classes, objetos    rocketseat
+
+arquitetura de software
+WEB-dom, html, css, seletores, xhr, storages
+APIs- soap/rest, graphQL, controllers, services, endpoints, http
+MOBILE- SO's, fragmentacao, gestos, device APIs, nativo vs hibrido
+
+autoconhecimento
+como eu aprendo melhor? R: tendo motivacao, rotina, e exercitar
+como eu melhoro meu foco?R: tendo vontade de melhorar, manter a rotina me mantem regrado, manter meu foco mental naquilo que quero
+como ser menos ansioso?R: dificil kkkkk, ser melhor e saber que estou aprendendo.
+
 
 
 
