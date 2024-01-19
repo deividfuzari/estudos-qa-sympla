@@ -284,6 +284,22 @@ REAL SKILLS -habilidades reais e hibridas
 **ter comportamento e ter habilidade/tecnica.
 
 comportamentais reais- determinacao, atitude, contribuicao, escolhas.
+-----------------------------------------------
+Metodologia LEAN 
+mais de 60% de software são disperdiçados entre 10 8 voltam para a empresa de software, e o LEAN reduz o disperdicio
+fatores que nao agregam valor ao produto que esta sendo comercializado sob perspectiva do cliente.
+
+documentacao de teste, no tradicional os testadores são forcados a criar dezenas de documentos, muito tempo perdido para as vezes
+documentos que nao são nem uteis, com excecao de cenarios criticos, focar em documentacao de teste que seja capaz de transmitir
+a mesma informacao usando menos detalhes sera otimo, menos detalhe menos volumoso em termos de numero de paginas.
+**documentacoes no lean para melhoras a documentacao pesada- mindmaps, checklists, cenariosvivos, automacao.
+
+documento de plano de teste em apenas uma pagina.
+usar esse documento tanto no inicio quanto no fim do projeto.
+**caracteristicas de qualidade, estrategia de testes. funcionalidade, usabilidade, portabilidade, performance, segurança
+**principal foco, funcionalidade e usabilidade, pois se o software tem q pelo menos estar funcionando o basico para o que pede.
+
+foco automatizar teste para funcionar bem a PORTABILIDADE, em varios lugares plataformas e etc.
 
 
 
