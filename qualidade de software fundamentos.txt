@@ -350,10 +350,59 @@ autoconhecimento
 como eu aprendo melhor? R: tendo motivacao, rotina, e exercitar
 como eu melhoro meu foco?R: tendo vontade de melhorar, manter a rotina me mantem regrado, manter meu foco mental naquilo que quero
 como ser menos ansioso?R: dificil kkkkk, ser melhor e saber que estou aprendendo.
+--------------------------------------------
+acessibilidade
+o que é? basicamente todos terem acesso a tudo que desejam da mesma maneira sem diferenças, resumindo idependente de sua condição
+de ter acesso a algo, exemplo: internet, sistemas de transporte, educacao. TODOS DEVEMOS TER A MESMA EXPERIENCIA.
+deficiencia situacional: é uma condiçao que o impede de fazer algo que poderia facilmente fazer se nao estivesse nessa condição.
+exemplo uma mae segura o bebe em um braco e a compra no outro, e precisa usar o celular para fazer uma transicao bancaria.
+deficiencia permanente: Aquela que ocorre ou se estabilizou durante um tempo e voce nao consegue recuperar ou alterar apesar de 
+novos tratamentos.
 
+porque acessibilidade web é importante?
+porque todas as pessoas mesmo elas tempo uma deficiencia, terao acesso, pois hoje em dia internet esta ligado a muitos fatores, 
+trabalhos, comercio, saude e etc, entao todos devem ter acesso sim a essa plataforma, acessibilidade na web significa abrir o 
+acesso a internet para qualquer pessoa com deficiencia ou impedimento.
 
+um site acessivel é uma boa maneira de fazer negocios, pois existem pessoas que nao conseguem ir em uma loja fisica, shopping etc.
+resumindo, se seu site tem uma acessibilidade boa, vai abrir oportunidades para outras pessoas, abranjendo varias plataformas,
+para todo e qualquer tipo de usuario.
 
+como tornar ou ser acessivel?
+perceptivel
+as informacoes e os componentes da interface do usuario devem ser apresentados em forma que possam ser percebidas pelo usuario.
+identificando o conteudo com (tato, audicao, visao, fala), exemplo: descricao alternativas das imagens, legendas em videos e etc.
 
+operavel
+os componentes de interface de usuario e a navegacao devem ser operaveis. um usuario pode usar com sucesso controles, botoes,
+clicando, tocando deslizando ou identificacao por voz.
+
+compreensivel.
+Alem de uma escolha adequada de fonte, é necessario evitar expressoes especificas, escrever sentencas de forma clara
+sem metafora ou tudo mais. deixar simples e concreta para pessoas com dislexia ou transtorno do espectro autista. o mais literal POSSIVEL
+
+ROBUSTO.
+codificacao do website. o WCAG estipula que o HTML deve estar alinhado a ponto de estar apto para rodas as tecnologias assistivas e 
+tambem para tornar o site navegavel pelo teclado, pessoas com deficiencia motora.
+
+o que é TESTE DE ACESSIBILIDADE?
+tornar o site mais acessivel para todos os usuarios.
+
+Tipos de teste de acessibilidade!
+testes visuais
+tratam-se dos testes executados para aferir a conformidade da aplicacao quanto ao foco visual.correlacao entre o que é dito por um leitor
+de tela e o que é exibido nas legendas., item por item vai passando para saber se o leitor nao ler um botao, é um defeito.
+
+testes nao visuais
+executados por QAs cegos ou com baixa visao, visam analisar a sequencia logica dos elementos apresentados, a ordem do foco, a correta
+identificacao dos tipos de componente.
+
+teste de contraste
+ferramenta CCA - tira um print da tela, por meio dos contas gotas, apontam para fontes e bordas depois fundos, a fim de obter o 
+"contrast ratio"de acordo com o indicado pelas diretrizes. focar em fontes background, foreground, contraste.
+
+lembrete é mais facil incorporar a acessibilidade no inicio do projeto do que pegar um pronto e fazer isso depois.
+o custo cai, e ficaria mais facil. pensar nisso ganha tempo e mais pessoas para seu projeto.
  
 
 
