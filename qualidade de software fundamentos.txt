@@ -403,7 +403,14 @@ ferramenta CCA - tira um print da tela, por meio dos contas gotas, apontam para 
 
 lembrete é mais facil incorporar a acessibilidade no inicio do projeto do que pegar um pronto e fazer isso depois.
 o custo cai, e ficaria mais facil. pensar nisso ganha tempo e mais pessoas para seu projeto.
- 
+--------------------------------------
+testes de performance
+primeiros passos em teste de performance pilares: 1contexto, 2conceitos, 3como comecar, referencias
+
+funcional - tem clareza o que tem que ser feito?
+
+nao funcionais - como vou operacionar essa aplicacao?
+prevencao de problemas
 
 
 
