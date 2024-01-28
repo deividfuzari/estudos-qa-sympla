@@ -411,6 +411,32 @@ funcional - tem clareza o que tem que ser feito?
 
 nao funcionais - como vou operacionar essa aplicacao?
 prevencao de problemas
+--------------------------------------
+principios do agile testing
+teste agil exigem: julgamento, habilidade, comunicacao, colaboracao, priorizacao clara, foco.
+testes ageis: dependentes do seu contexto, boas praticas, colaboracao é a parte mais importante de qualquer forma.
+o produto é uma solucao de problema, resolva o problema. **resolver o problema é mais importante do que qualquer tecnica.
+
+testes tradicionais x Ageis
+requisito-especificacao-desenvolvimento-teste-entrega = teste tradicional
+ao final de cada interecao sempre tera um possivel release "uma entrega" = agil
+
+9 principios de teste agil.
+os testes movem o projeto, teste guiam o desenvolvimento, o time todo fala sobre testes, provendo: informacao, feedback, visibilidade
+testes nao sao uma fase. sao planejados desde o inicio. ao longo do projeto, atividade continua.
+todos testam, desenvolvedores testar manualmente, qa usa mais as tecnicas e tudo mais.
+ciclos curtos.
+teste no final é disperdicio, testar sempre, se o codigo existe tem que existir um TESTE TAMBEM.
+teste as partes isoladas "smoke test", teste a integraçao.
+teste automatizados em todas as fases.
+testes sao exemplo.
+ter muitos bugs representa "bagunca" se uma cozinha estiver imunda é mais dificil de cozinhar resumidamente.
+reduzir a documentação-deve ser leve e simples, muita documentacao é disperdicio. evidencia apenas para report de bug.
+teste sao parte do DoD - ajuda o time a elencar os pontos necessários para que uma determinada tarefa seja classificada como concluída.
+
+
+
+
 
 
 
