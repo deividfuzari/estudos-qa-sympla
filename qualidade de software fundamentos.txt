@@ -433,8 +433,32 @@ testes sao exemplo.
 ter muitos bugs representa "bagunca" se uma cozinha estiver imunda é mais dificil de cozinhar resumidamente.
 reduzir a documentação-deve ser leve e simples, muita documentacao é disperdicio. evidencia apenas para report de bug.
 teste sao parte do DoD - ajuda o time a elencar os pontos necessários para que uma determinada tarefa seja classificada como concluída.
+-------------------------------------
+manifesto dos testes
+testar por todas etapas xno final/prevenir bugs x encontrar bugs/testar o entendimento x chegar funcionalidades/construir melhor sistema
+time responsavel pela qualidade x responsabilidade dos testadores.
 
+shift left testing- é uma abordagem agil que visa incorporar testes cada vez mais cedo no fluxo de desenvolvimento de software.
+olhar os testes desde o inicio o mais cedo possivel.
 
+como o QA pode ajudar o time ou o que será entregue? DoR - definicao de pronto "ingredientes" / DoD - definicao de concluido. "bolo feito"
+DoR o que sera feito, ter os ingredientes o que o cliente realmente deseja, e depois o desenvolvedor sera o confeteiro e o DoD é o bolo.
+
+backlog do produto- estao todos os itens que sao considerados no escopo do projeto.
+sprint backlog - é o escopo acordado para o proximo sprint, ele representa o compromisso de entrega para o time.
+sprint- é um ciclo de desenvolvimente com limite de tempo que retira itens de alta prioridade da backlog e transforma em um incremente de
+produto.
+
+como DoR e Dod pode ajudar nas definicoes de conclusao de historia do usuario.
+para trazer itens com sucesso para o sprint atual é importante que as historias estejam "prontas" o que sera feito ou o que o cliente deseja
+dessa forma histoia de usuario com maior detalhe e gera codigo com maior qualidade.
+
+3 pontos importantes para a definicao de pronto - claro/ viavel/ testavel
+claro- uma historia de usuario é clara se todos os membro da equipe compartilham um entendimento do que ela significa.
+viavel- se ela pode ser concluida atravez de uma sprint, de acordo com a definicao de pronta, se isso nao for possivel, precisa ser mais
+dividido ainda.
+testavel- um item testavel se houve uma maneira eficaz de determinar se a funcionalidade executa conforme o esperado.Os criterios de aceitacao
+garantem que cada historia pode ser testada.
 
 
 
